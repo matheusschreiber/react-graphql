@@ -1,2 +1,3 @@
 # react-graphql
-This is an exercice with graphql, graphcms and the react framework 
+
+This is an exercice with graphql, graphcms and the react framework
