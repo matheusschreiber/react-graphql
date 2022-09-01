@@ -30,6 +30,9 @@ module.exports = {
           700: '#121214',
           900: '#09090A',
         }
+      },
+      backgroundImage:{
+        blurimage: 'url(/src/assets/blur_background.png)'
       }
     },
   },
